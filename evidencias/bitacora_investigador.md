@@ -23,16 +23,17 @@ cat .llave_maestra.txt
 ---
 
 ## 3. 🗺️ Arquitectura y Entorno (Puerta 4 - VS Code & Dependencies)
-* **Versión de Python detectada:** `...`
-* **Comando utilizado para instalar `requirements.txt`:** `...`
-* **Diferencia entre Ruta Absoluta y Ruta Relativa (explicación breve):** 
+* **Versión de Python detectada:** `3.11.5`
+* **Comando utilizado para instalar `requirements.txt`:** `pip install -r`
+* **Diferencia entre Ruta Absoluta y Ruta Relativa (explicación breve):**
+La ruta absoluta es la dirección completa del archivo desde la raíz del ordenador. La ruta relativa, es una parte de la ruta, una de las carpetas. 
 
 ---
 
 ## 4. ⚙️ Conciliación Financiera (Puerta 5 - Python CLI)
-* **Facturación Bruta (Sin filtrar):** `... €`
-* **Facturación Neta Real (Solo Completadas):** `... €`
-* **Fuga Financiera (Canceladas + Devueltas):** `... €`
+* **Facturación Bruta (Sin filtrar):** `2.430 €`
+* **Facturación Neta Real (Solo Completadas):** `29.905 €`
+* **Fuga Financiera (Canceladas + Devueltas):** `37.705 €`
 * **Conclusión de Negocio:** ¿Por qué no debemos tomar decisiones con la facturación bruta?
 
 ---
