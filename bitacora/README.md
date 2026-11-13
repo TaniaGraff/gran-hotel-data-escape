@@ -1,0 +1,13 @@
+
+# 🏨 Operación Gran Hotel Olimpo: Fuga de Datos
+
+## Primera Misión - La Brújula
+
+1. CÓDIGO DE DESBLOQUEO: 
+   GH-OLIMPO-DATA-2026-KEY
+
+2. PRIMERA ANOMALÍA DETECTADA EN LOS DATOS:
+   Revisando la carpeta `data/reservas_raw.csv`, hemos descubierto que el atacante 
+   introdujo 10 FILAS TOTALMENTE DUPLICADAS e intencionadamente dejó celdas 
+   vacías (NaN) en precios y noches.
+
