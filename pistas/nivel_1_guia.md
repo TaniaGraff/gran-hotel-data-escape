@@ -38,7 +38,7 @@ git log --oneline
 
 Bash
 git branch -M main
-git remote add origin [https://github.com/TU_USUARIO/gran-hotel-data-escape.git](https://github.com/TU_USUARIO/gran-hotel-data-escape.git)
+bc
 git push -u origin main
 (Si falla la autenticación remota en el aula, anota en tu bitácora "Commit local registrado; push pendiente" y avanza a la Puerta 3).
 -------------------------------------------------------------------------------------------------
