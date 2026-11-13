@@ -31,7 +31,7 @@ La ruta absoluta es la dirección completa del archivo desde la raíz del ordena
 ---
 
 ## 4. ⚙️ Conciliación Financiera (Puerta 5 - Python CLI)
-* **Facturación Bruta (Sin filtrar):** `2.430 €`
+* **Facturación Bruta (Sin filtrar):** `42.430 €`
 * **Facturación Neta Real (Solo Completadas):** `29.905 €`
 * **Fuga Financiera (Canceladas + Devueltas):** `37.705 €`
 * **Conclusión de Negocio:** ¿Por qué no debemos tomar decisiones con la facturación bruta?
