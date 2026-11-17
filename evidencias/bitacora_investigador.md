@@ -31,20 +31,23 @@ La ruta absoluta es la dirección completa del archivo desde la raíz del ordena
 ---
 
 ## 4. ⚙️ Conciliación Financiera (Puerta 5 - Python CLI)
-* **Facturación Bruta (Sin filtrar):** `42.430 €`
-* **Facturación Neta Real (Solo Completadas):** `29.905 €`
-* **Fuga Financiera (Canceladas + Devueltas):** `37.705 €`
+* **Facturación Bruta (Sin filtrar):** `56.090 €`
+* **Facturación Neta Real (Solo Completadas):** `29.055 €`
+* **Fuga Financiera (Canceladas + Devueltas):** `27.035 €`
 * **Conclusión de Negocio:** ¿Por qué no debemos tomar decisiones con la facturación bruta?
+Porque la facturación bruta solo dice cuánto se vende, sin tener en cuenta las devoluciones o mermas.
 
 ---
 
 ## 5. 🔮 Auditoría Final e IA Generativa (Puerta 6 - Jupyter & Prompting)
-* **Número de duplicados exactos eliminados:** `...`
+* **Número de duplicados exactos eliminados:** `10`
 * **Respuesta de la LLM tras enviar el Prompt Estructurado:**
-  > [Pegar aquí la síntesis generada por la IA]
+  > Síntesis ejecutiva: Gran Hotel Olimpo
+- Base de datos depurada: de los 100 registros brutos iniciales se han eliminado 10 duplicados. El análisis se apoya ahora en 90 registros únicos, una base fiable para la toma de decisiones.
+- Facturación real identificada: la facturación neta real, que corresponde únicamente a las reservas completadas, asciende a 29.055,00 €. Fuga cuantificada y aislada: las reservas canceladas o devueltas suman 27.035,00 €. Al separarlas de las completadas, la Dirección puede distinguir con claridad los ingresos efectivos de los que no llegaron a materializarse.
 * **Verificación de Factualidad y Sesgos (Guardrails):**
-  - ¿La IA inventó algún dato que no estuviera en el contexto? (Sí/No y detalle):
-  - ¿El lenguaje utilizado es neutro y libre de sesgos de culpabilidad?
+  - ¿La IA inventó algún dato que no estuviera en el contexto? (Sí/No y detalle): No, especificó que solo usó las cifras del contexto, sin porcentajes ni métricas derivadas, y ha pasado los importes al formato español (punto para los miles, coma para los decimales). 
+  - ¿El lenguaje utilizado es neutro y libre de sesgos de culpabilidad? Podría ser más neutro, la IA hace una interpretación de los datos.
 
 ---
 
